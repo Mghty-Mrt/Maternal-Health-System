@@ -1,0 +1,48 @@
+* {
+  /* border-radius: 10px; */
+  /* border: 1px solid #115272; */
+  background: #DFE8FF;
+  /* text-align: center; */
+}
+
+p {
+  color: #5B87FF;
+  font-weight: bold;
+}
+
+table {
+  color: #115272;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.padding {
+  padding-left: 50px;
+}
+
+.m {
+  margin: 0px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 200px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 200px;
+}
+
+img {
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  margin: 15px;
+}
+
+.contact {
+  list-style: none;
+}
